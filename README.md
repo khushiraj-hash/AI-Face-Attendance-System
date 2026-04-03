@@ -35,6 +35,7 @@ It detects faces using a CNN-based model and records attendance with subject, da
 ---
 
 ## 📂 Project Structure
+```
 face_attendance_project/
 │
 ├── collect_data.py
@@ -45,7 +46,7 @@ face_attendance_project/
 ├── attendance.csv
 ├── requirements.txt
 └── .gitignore
----
+```
 
 ## ⚠️ Note
 Dataset is not included due to privacy reasons. Users can create their own dataset using `collect_data.py`.
