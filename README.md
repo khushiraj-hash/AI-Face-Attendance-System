@@ -45,7 +45,6 @@ face_attendance_project/
 ├── attendance.csv
 ├── requirements.txt
 └── .gitignore
-
 ---
 
 ## ⚠️ Note
