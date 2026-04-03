@@ -53,5 +53,16 @@ Dataset is not included due to privacy reasons. Users can create their own datas
 
 ---
 
+## 💡 Future Scope
+
+- Integration with a database (MySQL/PostgreSQL) instead of CSV  
+- Development of a web dashboard to view and analyze attendance  
+- Backend integration using FastAPI for API-based architecture  
+- Role-based authentication system (Admin/Faculty)  
+- Attendance analytics (percentage, reports, insights)  
+- Cloud deployment for real-world scalability  
+
+---
+
 ## 🧑‍💻 Author
 Khushi Raj
